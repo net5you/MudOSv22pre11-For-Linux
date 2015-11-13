@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/mudos/!svn/ver/3/trunk/src/mudlib
+END
+SMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/SMakefile
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/interface.c
+END
+Makefile.pre
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/Makefile.pre
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/GNUmakefile
+END
+Makefile.master
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/Makefile.master
+END
+GNUmakefile.pre
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/GNUmakefile.pre
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/mudlib/Makefile
+END

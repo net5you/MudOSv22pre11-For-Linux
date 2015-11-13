@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mudos/!svn/ver/3/trunk/src/include
+END
+localtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/include/localtime.h
+END
+socket_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mudos/!svn/ver/3/trunk/src/include/socket_err.h
+END
+type.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mudos/!svn/ver/3/trunk/src/include/type.h
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/include/function.h
+END
+parser_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mudos/!svn/ver/3/trunk/src/include/parser_error.h
+END
+origin.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mudos/!svn/ver/3/trunk/src/include/origin.h
+END
+runtime_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mudos/!svn/ver/3/trunk/src/include/runtime_config.h
+END

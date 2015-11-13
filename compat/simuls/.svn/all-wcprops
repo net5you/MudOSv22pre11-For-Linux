@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/compat/simuls
+END
+process_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/mudos/!svn/ver/3/trunk/src/compat/simuls/process_string.c
+END
+apply.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mudos/!svn/ver/3/trunk/src/compat/simuls/apply.c
+END
+break_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mudos/!svn/ver/3/trunk/src/compat/simuls/break_string.c
+END

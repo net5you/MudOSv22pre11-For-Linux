@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/mudos/!svn/ver/3/trunk/src/windows
+END
+step1.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/windows/step1.bat
+END
+steprel.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/windows/steprel.bat
+END
+addr_server.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/windows/addr_server.mak
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/windows/clean.bat
+END
+configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/windows/configure.h
+END
+edit_source.mak
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/windows/edit_source.mak
+END
+stepdbg.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/windows/stepdbg.bat
+END
+README.win32
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mudos/!svn/ver/3/trunk/src/windows/README.win32
+END
+mudos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/windows/mudos.mak
+END

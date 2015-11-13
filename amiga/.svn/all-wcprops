@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/mudos/!svn/ver/3/trunk/src/amiga
+END
+nsignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/amiga/nsignal.h
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/amiga/crypt.c
+END
+cstrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mudos/!svn/ver/3/trunk/src/amiga/cstrip.c
+END
+README-gcc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mudos/!svn/ver/3/trunk/src/amiga/README-gcc
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/amiga/ChangeLog
+END
+replace.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/amiga/replace.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mudos/!svn/ver/3/trunk/src/amiga/README
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mudos/!svn/ver/3/trunk/src/amiga/signal.c
+END
+signal_rr.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/amiga/signal_rr.c
+END
+touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/amiga/touch.c
+END
+ccdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/amiga/ccdep.h
+END
+amiga.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/amiga/amiga.h
+END
+times.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/amiga/times.h
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mudos/!svn/ver/3/trunk/src/amiga/socket.c
+END
+make_packages
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/amiga/make_packages
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/mudos/!svn/ver/3/trunk/src/amiga/socket.h
+END

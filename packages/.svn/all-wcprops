@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/mudos/!svn/ver/3/trunk/src/packages
+END
+mudlib_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/packages/mudlib_stats.h
+END
+contrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/packages/contrib.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/parser.h
+END
+develop_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/packages/develop_spec.c
+END
+sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/packages/sockets.c
+END
+matrix_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mudos/!svn/ver/3/trunk/src/packages/matrix_spec.c
+END
+uids_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mudos/!svn/ver/3/trunk/src/packages/uids_spec.c
+END
+Makefile.pre
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mudos/!svn/ver/3/trunk/src/packages/Makefile.pre
+END
+sockets_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/packages/sockets_spec.c
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/packages/db.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/packages/math.c
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/mudos/!svn/ver/3/trunk/src/packages/db.h
+END
+GNUmakefile.pre
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mudos/!svn/ver/3/trunk/src/packages/GNUmakefile.pre
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/Makefile
+END
+external_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mudos/!svn/ver/3/trunk/src/packages/external_spec.c
+END
+packages
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/packages
+END
+develop.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/packages/develop.c
+END
+db_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/packages/db_spec.c
+END
+math_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mudos/!svn/ver/3/trunk/src/packages/math_spec.c
+END
+uids.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/packages/uids.c
+END
+mudlib_stats_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mudos/!svn/ver/3/trunk/src/packages/mudlib_stats_spec.c
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/matrix.c
+END
+parser_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mudos/!svn/ver/3/trunk/src/packages/parser_spec.c
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mudos/!svn/ver/3/trunk/src/packages/GNUmakefile
+END
+uids.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/packages/uids.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/matrix.h
+END
+contrib_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/packages/contrib_spec.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/mudos/!svn/ver/3/trunk/src/packages/README
+END
+SMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/mudos/!svn/ver/3/trunk/src/packages/SMakefile
+END
+external.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mudos/!svn/ver/3/trunk/src/packages/external.c
+END
+Makefile.master
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mudos/!svn/ver/3/trunk/src/packages/Makefile.master
+END
+mudlib_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mudos/!svn/ver/3/trunk/src/packages/mudlib_stats.c
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mudos/!svn/ver/3/trunk/src/packages/parser.c
+END
