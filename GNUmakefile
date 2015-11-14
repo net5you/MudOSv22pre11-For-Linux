@@ -7,9 +7,9 @@ STRFUNCS=
 INSTALL=install -c
 INSTALL_DIR=../bin
 OPTIMIZE=-O2 -fomit-frame-pointer -fstrength-reduce
-CPP=gcc -E
+CPP=gcc -m32 -E
 CFLAGS=
-CC=gcc
+CC=gcc -m32
 YACC=bison -d -y
 RANLIB=ranlib
 
